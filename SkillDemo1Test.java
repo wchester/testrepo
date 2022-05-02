@@ -3,6 +3,6 @@ import org.junit.*;
 
 public class SkillDemo1Test{
     public void returnTest(){
-        assertEquals("Bye", SkillDemo1.returnSomething());
+        assertEquals("Bye", SkillDemo1File.returnSomething());
     }
 }

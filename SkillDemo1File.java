@@ -1,4 +1,4 @@
-public class SkillDemo1{
+public class SkillDemo1File{
     public static String returnSomething(){
         return "Hello";
     }
